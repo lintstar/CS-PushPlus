@@ -5,15 +5,13 @@
 
 # 前言
 
-**Mac 版微信目前不支持企业微信消息推送 **
-
-**而 Server 酱从8月开始不再使用微信模板消息通知**
+**Mac 版微信目前不支持企业微信消息推送 而 Server 酱从8月开始不再使用微信模板消息通知**
 
 **因此需要换一种新的推送方式**
 
 # 配置相关信息
 
-**登录 [PushPlus（推送加）](http://www.pushplus.plus/) **
+登录 [PushPlus（推送加）](http://www.pushplus.plus/)
 
 ![image-20210812105852128](https://qiniuyun.lintstar.top/hexo/20210812105859.png)
 
