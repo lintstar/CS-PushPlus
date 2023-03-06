@@ -13,7 +13,7 @@
 
 登录 [PushPlus（推送加）](http://www.pushplus.plus/)
 
-![image-20210812105852128](https://qiniuyun.lintstar.top/hexo/20210812105859.png)
+![image-20210812105852128](image/20210812105859.png)
 
 **脚本有两个地方需要替换：**
 
@@ -21,17 +21,17 @@
 
 **http://www.pushplus.plus/push1.html  复制自己的 token 替换到下面的地方**
 
-![image-20210812104818949](https://qiniuyun.lintstar.top/hexo/20210812105905.png)
+![image-20210812104818949](image/20210812105905.png)
 
 这里的通知模板支持 Markdown 格式可以随意替换
 
-![image-20210812104840045](https://qiniuyun.lintstar.top/hexo/20210812105908.png)
+![image-20210812104840045](image/20210812105908.png)
 
 ## PushPuls.cna
 
 **在客户端或者服务端后台挂载时，需要改成 `PushPlus.py` Python 脚本所在的绝对路径（从盘符开始）**
 
-![image-20210812110028880](https://qiniuyun.lintstar.top/hexo/20210812110030.png)
+![image-20210812110028880](image/20210812110030.png)
 
 **通过 CobaltStike 服务端 / 客户端 挂载脚本，将上线主机信息通过 PushPlus 微信模板消息通知到微信**
 
@@ -80,8 +80,8 @@
 
 ## Mac版微信
 
-![image-20210812110851409](https://qiniuyun.lintstar.top/hexo/20210812110851.png)
+![image-20210812110851409](image/20210812110851.png)
 
 ## 手机微信
 
-![image-20210812111423987](https://qiniuyun.lintstar.top/hexo/20210812111424.png)
+![image-20210812111423987](image/20210812111424.png)
